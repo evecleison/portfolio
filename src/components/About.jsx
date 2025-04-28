@@ -2,9 +2,9 @@
 import React from 'react';
 import { motion } from 'framer-motion'; // Importa animações do framer-motion
 
-const aboutImage = "../static/images/programmer.png";
-
 function About() {
+  const aboutImage = "../static/images/programmer.png";
+
   return (
     <section id="about" className="py-20 px-8 md:px-20 bg-gray-800">
       {/* Container flexível para imagem e texto */}
