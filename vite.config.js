@@ -4,7 +4,6 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig(({ command }) => ({
-  base: command === 'build' ? '/portfolio/' : '/',
   plugins: [react(), tailwindcss()],
   build: {
     outDir: 'docs'
