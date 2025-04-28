@@ -4,18 +4,18 @@ import { motion } from 'framer-motion'; // Importa o motion para animações
 
 // Array com as tecnologias e suas informações (nome, logo e descrição)
 const techs = [
-  { name: 'HTML5', logo: '../static/icons/icons8-html5.svg', desc: 'Linguagem de marcação para páginas web' },
-  { name: 'CSS3', logo: '../static/icons/icons8-css3.svg', desc: 'Estilização avançada de layouts' },
-  { name: 'JavaScript', logo: '../static/icons/icons8-javascript.svg', desc: 'Linguagem de programação front-end' },
-  { name: 'TypeScript', logo: '../static/icons/icons8-typescript.svg', desc: 'Superset tipado de JavaScript' },
-  { name: 'React', logo: '../static/icons/react.svg', desc: 'Biblioteca para interfaces reativas e baseada em componentes' },
-  { name: 'Tailwind CSS', logo: '../static/icons/icons8-tailwindcss.svg', desc: 'Framework CSS para estilização' },
-  { name: 'Python', logo: '../static/icons/icons8-python.svg', desc: 'Linguagem de programação versátil, usada em diversas áreas' },
-  { name: 'Git', logo: '../static/icons/icons8-git.svg', desc: 'Sistema de controle de versão distribuído' },
-  { name: 'Github', logo: '../static/icons/icons8-github.svg', desc: 'Plataforma online para hospedagem de repositórios Git' },
-  { name: 'Three.js', logo: '../static/icons/threejs.svg', desc: 'Biblioteca JavaScript para gráficos 3D na web' },
-  { name: 'Vite', logo: '../static/icons/vite.svg', desc: 'Ferramenta de build ultrarrápida para projetos web' },
-  { name: 'VS Code', logo: '../static/icons/icons8-visual-studio-code.svg', desc: 'Editor de código-fonte poderoso e customizável' }
+  { name: 'HTML5', logo: './static/icons/icons8-html5.svg', desc: 'Linguagem de marcação para páginas web' },
+  { name: 'CSS3', logo: './static/icons/icons8-css3.svg', desc: 'Estilização avançada de layouts' },
+  { name: 'JavaScript', logo: './static/icons/icons8-javascript.svg', desc: 'Linguagem de programação front-end' },
+  { name: 'TypeScript', logo: './static/icons/icons8-typescript.svg', desc: 'Superset tipado de JavaScript' },
+  { name: 'React', logo: './static/icons/react.svg', desc: 'Biblioteca para interfaces reativas e baseada em componentes' },
+  { name: 'Tailwind CSS', logo: './static/icons/icons8-tailwindcss.svg', desc: 'Framework CSS para estilização' },
+  { name: 'Python', logo: './static/icons/icons8-python.svg', desc: 'Linguagem de programação versátil, usada em diversas áreas' },
+  { name: 'Git', logo: './static/icons/icons8-git.svg', desc: 'Sistema de controle de versão distribuído' },
+  { name: 'Github', logo: './static/icons/icons8-github.svg', desc: 'Plataforma online para hospedagem de repositórios Git' },
+  { name: 'Three.js', logo: './static/icons/threejs.svg', desc: 'Biblioteca JavaScript para gráficos 3D na web' },
+  { name: 'Vite', logo: './static/icons/vite.svg', desc: 'Ferramenta de build ultrarrápida para projetos web' },
+  { name: 'VS Code', logo: './static/icons/icons8-visual-studio-code.svg', desc: 'Editor de código-fonte poderoso e customizável' }
 ];
 
 function Skills() {

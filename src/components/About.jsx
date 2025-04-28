@@ -2,7 +2,7 @@
 import React from 'react';
 import { motion } from 'framer-motion'; // Importa animações do framer-motion
 
-const aboutImage = "/static/images/programmer.png";
+const aboutImage = "./static/images/programmer.png";
 
 function About() {
   return (

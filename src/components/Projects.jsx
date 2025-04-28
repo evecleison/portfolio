@@ -7,35 +7,35 @@ const projects = [
   {
     title: 'Homepage inspirado do Instagram Web',
     description: 'Projeto front-end inspirado na página inicial do Instagram Web. Desenvolvido com React, JavaScript e Vite.',
-    media: '../static/projects/homepage.gif',
+    media: './static/projects/homepage.gif',
     demoLink: 'https://evecleison.github.io/image-share-homepage-clone/',
     repoLink: 'https://github.com/evecleison/image-share-homepage-clone.git'
   },
   {
     title: 'Carrinho de compras',
     description: 'Este é um carrinho de compras simples e funcional desenvolvido com HTML, CSS e TypeScript. Os produtos são armazenados no navegador usando o localStorage.',
-    media: '../static/projects/shopping-cart.gif',
+    media: './static/projects/shopping-cart.gif',
     demoLink: 'https://evecleison.github.io/shopping-cart/',
     repoLink: 'https://github.com/evecleison/shopping-cart.git'
   },
   {
     title: 'App Web de tempo',
     description: 'Aplicativo web desenvolvido com HTML, CSS e JavaScript que exibe o clima atual e a previsão do tempo para 5 dias em qualquer cidade do mundo, utilizando a API da OpenWeatherMap.',
-    media: '../static/projects/weather-web-app.gif',
+    media: './static/projects/weather-web-app.gif',
     demoLink: 'https://github.com/evecleison/weather-web-app/raw/main/images/weather-web-app.gif',
     repoLink: 'https://github.com/evecleison/weather-web-app.git'
   },
   {
     title: 'Lista de tarefas',
     description: 'Este projeto é uma aplicação web de uma lista de tarefas desenvolvida com React, utilizando o localStorage para persistência dos dados localmente.',
-    media: '../static/projects/to-do-list.gif',
+    media: './static/projects/to-do-list.gif',
     demoLink: 'https://evecleison.github.io/to-do-list-react/',
     repoLink: 'https://github.com/evecleison/to-do-list-react.git'
   },
   {
     title: 'Sistema Solar',
     description: 'Simulação 3D interativa do sistema solar desenvolvida com Three.js e Vite',
-    media: '../static/projects/solar-system.mp4',
+    media: './static/projects/solar-system.mp4',
     demoLink: 'https://evecleison.github.io/sistema-solar/',
     repoLink: 'https://github.com/evecleison/sistema-solar.git'
   },
@@ -49,14 +49,14 @@ const projects = [
   {
     title: 'Game de Corrida',
     description: 'Inspirado no clássico Enduro do Atari, o jogo foi criado utilizando apenas HTML, CSS e JavaScript. O jogador controla um carro em uma corrida infinita, devendo ultrapassar adversários. O objetivo é alcançar a maior pontuação possível antes que acabe o combustível ou ocorra uma colisão.',
-    media: '../static/projects/racing-game.mp4',
+    media: './static/projects/racing-game.mp4',
     demoLink: 'https://evecleison.github.io/racing-game-js/',
     repoLink: 'https://github.com/evecleison/racing-game-js.git'
   },
   {
     title: 'Homepage de um site de venda de carros',
     description: 'Este projeto é um site de venda de carros, criado com HTML e CSS, com a finalidade de exibir informações sobre carros novos e usados.',
-    media: '../static/projects/car.png',
+    media: './static/projects/car.png',
     demoLink: 'https://evecleison.github.io/Trabalho_pratico_css/',
     repoLink: 'https://github.com/evecleison/Trabalho_pratico_css.git'
   }
