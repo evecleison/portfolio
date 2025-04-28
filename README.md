@@ -4,7 +4,7 @@
 
 A maior parte do código utiliza nomes de variáveis, funções, etc., em inglês, enquanto os comentários do código e o conteúdo textual da interface e da página estão em português brasileiro.
 
-👉  [Veja o projeto em funcionamento](https://fulano.github.io/portfolio/)
+👉  [Veja o projeto em funcionamento](https://evecleison.github.io/portfolio/)
 
 ## Descrição do projeto
 
@@ -14,7 +14,7 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos, ha
 
 1. Clone este repositório:
     ```bash
-    git clone https://fulano.github.io/portfolio/
+    git clone https://evecleison.github.io/portfolio/
     ```
 
 2. Instale as dependências:
@@ -49,12 +49,13 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos, ha
 
 ## 👨‍💻 Autor
 
-- fulano
+- Evecleison Albuquerque do Nascimento
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT.  
-Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
+Este projeto **não é open source** e está licenciado sob o modelo de **Todos os Direitos Reservados**.  
+Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
+
 
 
 
