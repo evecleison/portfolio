@@ -2,7 +2,7 @@
 import React from 'react';
 import { motion } from 'framer-motion'; // Importa animações do framer-motion
 
-const laptop = "../static/images/laptop.png";
+const laptop = "./static/images/laptop.png";
 
 function Hero() {
   return (
