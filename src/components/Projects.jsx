@@ -42,7 +42,7 @@ const projects = [
   {
     title: 'Game Bala de Canhão',
     description: 'Simulação em física e aplicação de um sistema de partículas usando o Three.js. Isso foi feito por meio de um jogo simples no qual um canhão dispara projéteis para destruir objetos no cenário que quando atingidos geram uma explosão.',
-    media: '../static/projects/game-bala-de-canhao.mp4',
+    media: './static/projects/game-bala-de-canhao.mp4',
     demoLink: 'https://evecleison.github.io/game-bala-de-canhao/',
     repoLink: 'https://github.com/evecleison/game-bala-de-canhao.git'
   },
