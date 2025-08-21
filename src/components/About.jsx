@@ -37,7 +37,7 @@ function About() {
 
           {/* Apresentação pessoal */}
           <p className="text-gray-300 leading-relaxed mb-4 text-justify">
-            Meu nome é Evecleison e sou estudante de Engenharia da Computação na Universidade Federal do
+            Meu nome é Evecleison e sou graduado em Engenharia da Computação na Universidade Federal do
             Ceará (UFC), com foco em Desenvolvimento Front-End. Tenho conhecimento em desenvolvimento web,
             e estou sempre buscando aprender novas tecnologias e expandir meu conhecimento em programação. 
           </p>
