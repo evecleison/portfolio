@@ -39,11 +39,12 @@ function About() {
           <p className="text-gray-300 leading-relaxed mb-4 text-justify">
             Meu nome é Evecleison e sou graduado em Engenharia da Computação na Universidade Federal do
             Ceará (UFC), com foco em Desenvolvimento Front-End. Tenho conhecimento em desenvolvimento web,
-            e estou sempre buscando aprender novas tecnologias e expandir meu conhecimento em programação. 
+            e estou sempre buscando aprender novas tecnologias e expandir meu conhecimento em programação.
+            Atualmente, cursando Mestrado em Engenharia de Elétrica e Computação. 
           </p>
           <p className="text-gray-300 leading-relaxed mb-8 text-justify">
             Sou dedicado e focado na resolução de problemas, usando a computação para desenvolver soluções
-            e aplicações. Atualmente, estou em um projeto de pesquisa sobre um aplicativo que classifica
+            e aplicações. Além disso, estou em um projeto de pesquisa sobre um aplicativo que classifica
             e identifica a anemia por meio de imagens de mucosa ocular de ovinos.
           </p>
 
